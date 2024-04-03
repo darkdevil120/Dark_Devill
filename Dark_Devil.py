@@ -196,7 +196,7 @@ def setting():
 		print (' [!] Choose Correct Option')
 		exit()
 	clear()
-	print(logo);print ('\n [01] OLD ID ');print (' [02] NEW ID \033[1;97m')
+	print(logo);print ('\n [1] OLD ID ');print (' [02] NEW ID \033[1;97m')
 	hc = input ("\n [#] method : ")
 	if hc in ['1','01']:
 		method.append('mobile')
