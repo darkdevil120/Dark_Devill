@@ -1,7 +1,6 @@
 # Dark_Devill
-
-<br>
-*Dark_Devil tools for installation
+<FONT COLOR="#ff0000 ">  
+<br> Dark_Devil tools for installation
 <br>
 <br> rm -rf Dark_Devill
 <br> pkg update && pkg upgrade
