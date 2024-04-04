@@ -1,5 +1,4 @@
 # Dark_Devill
-print('Welcime to Dark_Devil Tool')
 
 <br>
 *Dark_Devil tools for installation
