@@ -1,5 +1,5 @@
 # Dark_Devill
-<FONT COLOR="RED
+
 <br> Dark_Devil tools for installation
 <br>
 <br> rm -rf Dark_Devill
@@ -12,4 +12,4 @@
 <br> ls
 <br> cd Dark_Devill
 <br> python Dark_Devil.py
-">
+
