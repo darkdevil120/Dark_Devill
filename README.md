@@ -1,5 +1,5 @@
 # Dark_Devill
-<FONT COLOR="#ff0000 ">  
+<FONT COLOR="RED">
 <br> Dark_Devil tools for installation
 <br>
 <br> rm -rf Dark_Devill
